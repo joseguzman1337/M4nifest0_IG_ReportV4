@@ -7,3 +7,6 @@ node_modules
 .psci
 output
 pytransform/__pycache__/__init__.cpython-39.pyc
+# macOS system files
+.DS_Store
+._*
